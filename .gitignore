@@ -5,3 +5,4 @@ PerfReports/
 *.aps
 UserSettings.cmake
 .floatingsandbox_shipdb
+.cache
